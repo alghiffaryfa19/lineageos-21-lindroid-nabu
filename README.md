@@ -4,7 +4,7 @@
 
 > This guide assumes you know what you are doing and you have latest platform tools installed along with drivers.
 
-* Download all file from [Here](https://drive.google.com/drive/folders/1iZrJMFk_ekmWKlzR0b3SOqTG0eoVGKpg?usp=sharing)
+* Download all files from [Here](https://drive.google.com/drive/folders/1iZrJMFk_ekmWKlzR0b3SOqTG0eoVGKpg?usp=sharing)
 
 
 * flash or boot to TWRP (you can find guide from forum or etc)
