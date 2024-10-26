@@ -47,12 +47,18 @@
 
 #### Configure your device
 1: Download lindroid rootfs [Here](https://lindroid.org/lindroid.tar.gz).
+
 2: enable usb debugging and rooted debugging in developer options.
+
 3: open lindroid app and kill from recent apps.
+
 4: rename downloaded rootfs to rootfs.tar.gz and push with adb.
 `adb push rootfs.tar.gz /data/data/org.lindroid.ui/files/`
+
 5: enter adb shell.
 `adb shell`
+
 6: execute this command.
 `lxc_create default -t lindroid -- -f /dev/fd/4 "4</data/data/org.lindroid.ui/files/rootfs.tar.gz"`
+
 7: after completing the command, open lindroid app and click "default", please wait until boot into linux, the default password is "lindroid".
