@@ -46,7 +46,7 @@
 `fastboot reboot`
 
 #### Configure your device
-1: Download lindroid rootfs [Here](https://lindroid.org/lindroid.tar.gz).
+1: Download lindroid rootfs [Here](https://lindroid.org/new_rootfs_241124.zip.tar.gz).
 
 2: enable usb debugging and rooted debugging in developer options.
 
